@@ -1,0 +1,140 @@
+# Translation of Plugins - WordPress Robots.txt optimization (+ XML Sitemap) – Website traffic, ranking &amp; SEO Booster + Woocommerce - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - WordPress Robots.txt optimization (+ XML Sitemap) – Website traffic, ranking &amp; SEO Booster + Woocommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-31 09:39:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WordPress Robots.txt optimization (+ XML Sitemap) – Website traffic, ranking &amp; SEO Booster + Woocommerce - Development (trunk)\n"
+
+#: inc/sidebar.php:24
+msgid "Subscribe & get a 10% OFF"
+msgstr "Inscrivez-vous & bénéficiez de 10% de rabais"
+
+#: inc/sidebar.php:27
+msgid "Enter your email to get our SEO best practice guide AND a 10% coupon code on Better Robots.txt PRO plugin."
+msgstr "Saisissez votre e-mail pour obtenir notre guide des meilleurs pratiques SEO et un code promo de 10% sur la version PRO de l’extension Better Robots.txt."
+
+#: admin-ui-inc/step-2.php:49
+msgid "Bad bot blocker"
+msgstr "Bloqueur de robots malveillants :"
+
+#: admin-ui-inc/step-2.php:84
+msgid "bad bot blocker"
+msgstr "bloqueur de robots malveillants"
+
+#: admin-ui-inc/step-4.php:47
+msgid "sitemap option"
+msgstr "option du sitemap"
+
+#: inc/notices.php:11
+msgid "Better Robotstxt - Boost your Google ranking with <a href=\"%s\" target=\"_blank\">Better Robots.txt PRO</a> plugin | Get 10&#37; OFF if you subscribe here:"
+msgstr "Better Robotstxt - Boostez votre positionnement Google avec l’extension <a href=\"%s\" target=\"_blank\">Better Robots.txt PRO</a> | Obtenez 10&#37; de réduction en vous inscrivant ici :"
+
+#: admin-ui-inc/step-2.php:73
+msgid "Activate to block top malicious web scrapers (bad bots). This is a pro version feature"
+msgstr "Activez pour bloquer les robots malveillants. Cette fonctionnalité n’est disponible que sur la version PRO."
+
+#: inc/sidebar.php:34 inc/notices.php:25
+msgid "Email address"
+msgstr "Email"
+
+#: inc/sidebar.php:39 inc/notices.php:30
+msgid "Subscribe"
+msgstr "Inscription"
+
+#. Author of the plugin
+msgid "Pagup"
+msgstr "Pagup"
+
+#. Author URI of the plugin
+msgid "https://pagup.com/"
+msgstr "https://pagup.com/"
+
+#: better-robots-txt-admin.php:149
+msgid "Settings saved"
+msgstr "Paramètres sauvegardés"
+
+#: admin-ui-inc/step-1.php:84
+msgid "Allows %1$s %2$s to index => %3$s"
+msgstr "Autoriser %1$s %2$s à indexer => %3$s"
+
+#: admin-ui-inc/step-4.php:67
+msgid "Add your sitemap in the robots.txt file to boost your ranking"
+msgstr "Ajoutez votre sitemap dans le Robots.txt pour booster votre référencement."
+
+#: admin-ui-inc/step-4.php:117
+msgid "Crawl-delay"
+msgstr "Délai d'indexation"
+
+#: admin-ui-inc/step-4.php:130
+msgid "The crawl-rate defines the time between requests bots make to your website in seconds. e.g: 10"
+msgstr "Le \"délai d'indexation\" définit le temps entre chaque requête que les robots effectuent sur le site en secondes (ex: 10 - recommandé)"
+
+#: admin-ui-inc/delete.php:4
+msgid "Delete Settings"
+msgstr "Supprimer les paramètres"
+
+#: admin-ui-inc/delete.php:12
+msgid "Checking this box will remove all settings when you deactivate Better Robots.txt plugin."
+msgstr "Cocher cette case effacera la configuration quand vous désactiverez Better Robots.txt plugin."
+
+#: better-robots-txt.php:372
+msgid "# This robots.txt file was created by"
+msgstr "# Ce robots.txt a été créé par"
+
+#: inc/faq.php:6
+msgid "What is a robots.txt?"
+msgstr "Qu'est ce qu'un robots.txt"
+
+#: inc/faq.php:23
+msgid "What is a sitemap?"
+msgstr "Qu'est ce qu'une Sitemap?"
+
+#: inc/faq.php:29
+msgid "Sitemaps are an easy way for webmasters to inform search engines about pages on their sites that are available for crawling. In its simplest form, a Sitemap is an XML file that lists URLs for a site along with additional metadata about each URL (when it was last updated, how often it usually changes, and how important it is, relative to other URLs in the site) so that search engines can more intelligently crawl the site."
+msgstr "Les sitemaps sont un moyen facile pour les webmasters d'informer les moteurs de recherche sur les pages de leurs sites étant disponibles pour l'exploration. Dans sa forme la plus simple, un sitemap est un fichier XML qui répertorie les URL d'un site avec des métadonnées supplémentaires sur chaque URL (date de dernière mise à jour, fréquence à laquelle elle change généralement et leur importance par rapport aux autres URL du site). ) afin que les moteurs de recherche puissent explorer plus intelligemment le site."
+
+#: inc/faq.php:95
+msgid "How can this plugin boost my website ranking?"
+msgstr "Comment ce plugin peut améliorer le référencement de mon site Web?"
+
+#: inc/faq.php:110
+msgid "What are the Best SEO Practices?"
+msgstr "Quelles sont les meilleures techniques SEO?"
+
+#: inc/faq.php:117
+msgid "Make sure you’re not blocking any content or sections of your website you want crawled."
+msgstr "Assurez-vous de ne pas bloquer le contenu ou les sections de votre site Web dont vous souhaitez qu'elles soient explorées (et donc visibles dans les SERP)."
+
+#: inc/faq.php:123
+msgid "Links on pages blocked by robots.txt will not be followed. This means 1.) Unless they’re also linked from other search engine-accessible pages (i.e. pages not blocked via robots.txt, meta robots, or otherwise), the linked resources will not be crawled and may not be indexed. 2.) No link equity can be passed from the blocked page to the link destination. If you have pages to which you want equity to be passed, use a different blocking mechanism other than robots.txt."
+msgstr "Les liens figurant sur les pages bloquées par le robots.txt ne seront tout simplement pas \"suivies\". Cela signifie que 1.) À moins qu'ils ne soient également liés à d'autres pages accessibles par les moteurs de recherche (pages non bloquées via le robots.txt, les méta-robots ou autres), les ressources liées ne seront pas explorées et ne pourront pas être indexées. 2.) Aucun lien d'équité ne peut être passé de la page bloquée à la destination du lien. Si vous avez des pages pour lesquelles vous souhaitez que l'équité soit transmise, utilisez un autre mécanisme de blocage que le robots.txt."
+
+#: inc/faq.php:141
+msgid "A search engine will cache the robots.txt contents, but usually updates the cached contents at least once a day. If you change the file and want to update it more quickly than is occurring, you can submit your robots.txt url to Google."
+msgstr "Un moteur de recherche mettra en cache le contenu du robots.txt, mais met généralement à jour le contenu mis en cache au moins une fois par jour. Si vous modifiez le fichier et souhaitez en booster la lecture (plus rapidement), vous pouvez envoyer l'URL de votre  robots.txt à Google (via la Search Console)."
+
+#: inc/sidebar.php:18
+msgid "Read More &raquo;"
+msgstr "Voir plus &raquo;"
+
+#: inc/sidebar.php:12
+msgid "Boost your website ranking"
+msgstr "Booster le référencement de votre site Web"
+
+#: inc/faq.php:129
+msgid "Do not use robots.txt to prevent sensitive data (like private user information) from appearing in SERP results. Because other pages may link directly to the page containing private information (thus bypassing the robots.txt directives on your root domain or homepage), it may still get indexed. If you want to block your page from search results, use a different method like password protection or the noindex meta directive."
+msgstr "N'utilisez pas le fichier robots.txt pour empêcher l'affichage de données sensibles (telles que des informations d'utilisateur privé) dans les résultats SERP (Search Engine Result Pages). Étant donné que d'autres pages peuvent être liées directement à la page contenant des informations privées (contournant ainsi les instructions du robots.txt sur votre domaine racine ou votre page d'accueil), elles peuvent toujours être indexées. Si vous souhaitez éviter que certaines pages apparaîssent dans les résultats de recherche, utilisez une méthode différente, telle que la protection par mot de passe ou encore une META \"noindex\"."
+
+#: inc/faq.php:135
+msgid "Some search engines have multiple user-agents. For instance, Google uses Googlebot for organic search and Googlebot-Image for image search. Most user agents from the same search engine follow the same rules so there’s no need to specify directives for each of a search engine’s multiple crawlers, but having the ability to do so does allow you to fine-tune how your site content is crawled."
+msgstr "Certains moteurs de recherche ont plusieurs robots d'exploration. Par exemple, Google utilise Googlebot pour la recherche naturelle et Googlebot-Image pour la recherche d'images. La plupart des robots d'exploration (user-agents) du même moteur de recherche suivent les mêmes règles. Il n'est donc pas nécessaire de spécifier des directives pour les différents robots d'un moteur de recherche, toutefois, cela vous permet d'affiner la manière dont le contenu de votre site est analysé."
+
+#: inc/faq.php:81
+msgid "One last point."
+msgstr "Un dernier point."
