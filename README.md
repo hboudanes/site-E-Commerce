@@ -26,4 +26,4 @@
 ## 6- instalation Plugin 
 ### - Weglot Translate
 ### - Yoast SEO
-  
+### - WPS Hide Login
